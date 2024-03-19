@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/background.png</file>
+        <file>resource/background1.png</file>
+        <file>resource/background2.png</file>
+        <file>resource/blowup.png</file>
+        <file>resource/bullet.png</file>
+        <file>resource/rocket.png</file>
+        <file>resource/ufo.png</file>
+        <file>resource/ufo1.png</file>
+        <file>resource/img_bg_level_2.png</file>
+    </qresource>
+</RCC>
